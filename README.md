@@ -1,0 +1,1 @@
+# Projeto-TCC-SENAI-2023--Monitoramento-de-compressores-via-ESP
